@@ -1,0 +1,6 @@
+#Time        gpu   pwr gtemp mtemp    sm   mem   enc   dec  mclk  pclk
+#HH:MM:SS    Idx     W     C     C     %     %     %     %   MHz   MHz
+ 17:36:40      0    14    48     -    21    16     0     0   405   360
+ 17:36:40      1    14    48     -    21    16     0     0   405   360
+ 17:36:40      2    14    48     -    21    16     0     0   405   360
+ 17:36:40      3    14    48     -    21    16     0     0   405   360
