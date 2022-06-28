@@ -66,7 +66,13 @@ func main() {
 	var es bd.ES
 	es.Address = *esAddr
 	es.Init()
-	args := []string{"dmod", "-c 1", "-o T"}
+	args := []string{
+		"dmon",
+		"-c",
+		"1",
+		"-o",
+		"T",
+	}
 	if *testMode {
 		*pathNVSMI = "python3"
 		args = []string{"test/nvsmi-generator.py"}

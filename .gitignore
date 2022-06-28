@@ -18,3 +18,4 @@ venv
 .idea
 
 composes/grafana_data
+nvsmi-visualizer
